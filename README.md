@@ -44,6 +44,7 @@ Jalankan perintah berikut di terminal pada folder proyek:
 
 ```bash
 streamlit run app.py
+```
 
 ---
 
