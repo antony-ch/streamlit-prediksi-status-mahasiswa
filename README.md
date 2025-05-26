@@ -45,3 +45,10 @@ Jalankan perintah berikut di terminal pada folder proyek:
 ```bash
 streamlit run app.py
 
+---
+
+## Cara menggunakan aplikasi
+
+1. Isi form data mahasiswa sesuai input yang diminta.
+2. Klik tombol **Prediksi**.
+3. Hasil prediksi status mahasiswa (Dropout, Graduate, atau Enrolled) akan muncul di layar.
